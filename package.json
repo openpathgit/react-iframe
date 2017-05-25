@@ -1,8 +1,8 @@
 {
-  "name": "react-iframe",
-  "version": "1.0.5",
+  "name": "react-iframe-no-min",
+  "version": "1.0.6",
   "description": "Easy iframes with react",
-  "main": "index.min.js",
+  "main": "index.js",
   "peerDependencies": {
     "prop-types": ">=15.5.x",
     "react": ">=15.3.x"
